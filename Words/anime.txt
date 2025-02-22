@@ -1,5 +1,10 @@
 ### 动漫识别词
 
+## 2017.04新番
+
+# Re:CREATORS
+レクリエイターズ => Re:CREATORS {[tmdbid=70592;type=tv]}
+
 ## 2025.01新番
 
 # BanG Dream! Ave Mujica
