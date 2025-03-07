@@ -5,6 +5,9 @@
 # Re:CREATORS
 レクリエイターズ => Re:CREATORS {[tmdbid=70592;type=tv]}
 
+## 2024.01新番
+Dungeon Meshi => 迷宫饭 {[tmdbid=207784;type=tv]}
+
 ## 2025.01新番
 
 # BanG Dream! Ave Mujica
