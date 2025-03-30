@@ -1,5 +1,8 @@
 ### 动漫识别词
 
+# OVERLORD
+OVERLORD => OVERLORD {[tmdbid=64196;type=tv]}
+
 ## 2017.04新番
 
 # Re:CREATORS
