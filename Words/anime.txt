@@ -1,23 +1,27 @@
 ### 动漫识别词
 
-## 2015.07新番
+# 白色相簿
+White Album 2 => 白色相簿2 {[tmdbid=70072;type=tv]}
+White Album => 白色相簿 {[tmdbid=28502;type=tv]}
 
+## 2015.07新番
 # OVERLORD
 OVERLORD.The.Sacred.Kingdom => Overlord Movie 3: Sei Oukoku-hen {[tmdbid=1014505;type=movie]}
 OVERLORD => OVERLORD {[tmdbid=64196;type=tv]}
 
 ## 2017.04新番
-
 # Re:CREATORS
 レクリエイターズ => Re:CREATORS {[tmdbid=70592;type=tv]}
 
-## 2024.01新番
+## 2021.04新番
+# 86－不存在的战区
+EIGHTY SIX => 86－不存在的战区 {[tmdbid=100565;type=tv]}
 
+## 2024.01新番
 # 迷宫饭
 Dungeon Meshi => 迷宫饭 {[tmdbid=207784;type=tv]}
 
 ## 2025.01新番
-
 # BanG Dream! Ave Mujica
 BanG Dream! Ave Mujica => 颂乐人偶 {[tmdbid=274580;type=tv]}
 
