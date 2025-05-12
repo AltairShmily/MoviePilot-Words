@@ -1,5 +1,8 @@
 ### 动漫识别词
 
+# 龙与虎
+とらドラ! => 龙与虎 {[tmdbid=42916;type=tv]}
+
 # 白色相簿
 White Album 2 => 白色相簿2 {[tmdbid=70072;type=tv]}
 White Album => 白色相簿 {[tmdbid=28502;type=tv]}
