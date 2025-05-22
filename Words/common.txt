@@ -90,6 +90,8 @@ FYSub|楓葉字幕組 => 枫叶字幕组
 (?i)\bShirokoi\b => 白恋字幕组
 (?i)\bFLsnow\b => 雪飘工作室
 (?i)\bVCB-S\b => VCB-Studio
+(?i)\bmawen1250\b => [mawen1250]
+(?i)\bMoozzi2\b => [Moozzi2]
 
 # 字幕规格修正
 (?i)(CHS|GB|SC)(&|_|＆|\x20)(CHT|BIG5|TC)(&|_|＆|\x20)JA?PN? => 简繁日内封
