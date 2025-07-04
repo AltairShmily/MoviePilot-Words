@@ -64,3 +64,7 @@ Kusuriya.no.Hitorigoto.S02 => Kusuriya no Hitorigoto S01 && S01 <> 2025 >> EP+24
 Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*ADWeb) => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 2024 >> EP+50
 (?<=ANi.*?)Re：從零開始的異世界生活 第三季 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 1080P >> EP+50
 (?<=ANi.*?)Re：从零开始的异世界生活 第三季 => Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S01 && S01 <> 1080P >> EP+50
+
+## 2025.07新番
+# 胆大党 第二季
+(?<=ANi.*?)Dan Da Dan S02 => Dan Da Dan S01 {[tmdbid=240411;type=tv;s=1]}
