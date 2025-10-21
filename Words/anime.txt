@@ -72,4 +72,5 @@ Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*ADWeb) => Re.Zero.kara.Hajimeru.Is
 
 # 更衣人偶坠入爱河
 Sono Bisque Doll wa Koi wo Suru => 更衣人偶坠入爱河 S01 {[tmdbid=123249;type=tv;s=1]}
-My.Dress-Up.Darling.S02 => 更衣人偶坠入爱河 S01 && S01 <> 1080p >> EP+12 {[tmdbid=123249;type=tv;s=1]}
+My.Dress-Up.Darling.S02 => Sono Bisque Doll wa Koi wo Suru S01 && S01 <> 1080p >> EP+12
+更衣人偶坠入爱河 S01 => 更衣人偶坠入爱河 S01 {[tmdbid=123249;type=tv;s=1]}
