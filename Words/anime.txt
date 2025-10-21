@@ -69,3 +69,7 @@ Re.Zero.kara.Hajimeru.Isekai.Seikatsu.S03(?=.*ADWeb) => Re.Zero.kara.Hajimeru.Is
 # 胆大党 第二季
 (?<=ANi.*?)Dan Da Dan S02 => Dan Da Dan S01 {[tmdbid=240411;type=tv;s=1]}
 (?<=ANi.*?)膽大黨 第二季 => Dan Da Dan S01 {[tmdbid=240411;type=tv;s=1]}
+
+# 更衣人偶坠入爱河
+Sono Bisque Doll wa Koi wo Suru => 更衣人偶坠入爱河 S01 {[tmdbid=123249;type=tv;s=1]}
+My.Dress-Up.Darling.S02 => 更衣人偶坠入爱河 S01 && S01 <> 1080p >> EP+12 {[tmdbid=123249;type=tv;s=1]}
